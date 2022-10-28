@@ -5,7 +5,7 @@ ikun所热爱的的程序，只因你太美
 目前打算使用msvc编译 所以项目会用sln的格式
 <div>
 <audio controls>
-    <source src="music.m4a" type="video/m4a"
+    <source src="music.m4a" type="video/m4a">
 </audio>
 </div>
                                        --by luosuo_39
