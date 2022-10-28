@@ -4,6 +4,8 @@ ikun所热爱的的程序，只因你太美
 致力于制作出ikun狂喜恶搞程序 但是不大可能短时间内完善
 目前打算使用msvc编译 所以项目会用sln的格式
 <div>
-<p style="font-color:red;">谢谢！</p>
+<audio controls>
+    <source src="music.mp3" type="video/mp3"
+</audio>
 </div>
                                        --by luosuo_39
