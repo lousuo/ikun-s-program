@@ -6,4 +6,4 @@ ikun所热爱的的程序，只因你太美
 <div>
 鲁迅曾经说过：<blockquote>坤坤就像养鸡场里的鸡，只要愿杀，总还是可以吃的。</blockquote>
 </div>
-                                       --by luosuo_39
+                                       --by luosuo
